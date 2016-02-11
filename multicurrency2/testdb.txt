@@ -1,0 +1,6 @@
+<?php
+if(mysql_connect("localhost","admin_icai14","Indxxb3930@db"))
+echo "connected";
+else
+echo "not connected";
+?>

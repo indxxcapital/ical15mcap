@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Client Data">
+<Table>
+<Row>
+<Cell><Data ss:Type="String">Index</Data></Cell>
+<Cell><Data ss:Type="String">Value</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">17</Data></Cell>
+<Cell><Data ss:Type="String">3209.4469095037</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">18</Data></Cell>
+<Cell><Data ss:Type="String">2643.598615917</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">19</Data></Cell>
+<Cell><Data ss:Type="String">3078.3873099802</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>
